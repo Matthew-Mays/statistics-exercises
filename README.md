@@ -1,0 +1,1 @@
+Repo for statistics exercisesin python
